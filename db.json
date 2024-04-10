@@ -2,23 +2,33 @@
   "mockData": [
     {
       "id": "1",
-      "name": "测试1"
+      "name": "测试1",
+      "code": "11",
+      "sex": "male"
     },
     {
       "id": "2",
-      "name": "测试2"
+      "name": "测试2",
+      "code": "11",
+      "sex": "male"
     },
     {
       "id": "3",
-      "name": "测试3"
+      "name": "测试3",
+      "code": "11",
+      "sex": "male"
     },
     {
       "id": "4",
-      "name": "测试4"
+      "name": "测试4",
+      "code": "11",
+      "sex": "male"
     },
     {
       "id": "5",
-      "name": "测试5"
+      "name": "测试5",
+      "code": "11",
+      "sex": "male"
     }
   ]
 }
